@@ -13,3 +13,6 @@
 2.  Scientific literature research.
 3.  Development of hardware / software model and validation scenarios.
 4.  System development and validation
+
+
+#### The detail Running Instructions are available [here](https://github.com/rina-yadav08/Autonomous-Intelligence-System/blob/main/Run-Instructions.md) 
