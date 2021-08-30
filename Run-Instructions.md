@@ -1,4 +1,7 @@
 # Creating a new catkin workspace for this repository
+
+**This project is carried out Kinectic Version of ROS**
+
 ### Make a new workspace for catkins.
 
 Navigate to your new workspace's intended directory in your terminal shell and run the following commands, replacing **wsname** with the name of your new workspace.
